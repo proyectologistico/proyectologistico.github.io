@@ -1,0 +1,10 @@
+CÓDIGO QR — PROYECTO AYOLAS
+
+Destino:
+https://1drv.ms/f/c/cc0fa5090486dd2d/IgD-d3T9qmR1Q7VxyY7vTZ8mAdCXiD4w5UCurRL1V0m8svY?e=MGFHXm
+
+IMPORTANTE:
+1. Verificar que el enlace de OneDrive permita acceso a cualquier persona con el vínculo.
+2. Probar el QR desde varios teléfonos antes de imprimir.
+3. Mantener la misma carpeta/enlace para poder actualizar los PDFs sin cambiar el QR.
+4. Si OneDrive modifica o invalida el vínculo, generar un nuevo QR.
